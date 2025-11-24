@@ -76,8 +76,8 @@ https://github.com/user-attachments/assets/378220d2-17e4-4a09-a1b0-96ca7a894956
 | Kick Off          | 25/08/2025 |  Concluído         | 
 | 01                | 08/09 - 28/09 | [Concluída - Docs](./docs/sprints/sprint-1/README.md)  | 
 | 02                | 06/10 - 26/10 | [Concluída - Docs](./docs/sprints/sprint-2/README.md)   | 
-| 03                | 03/11 - 28/11 | Ainda não iniciada | 
-| Feira de Soluções | 04/12/2025 |   Ainda não iniciada  | 
+| 03                | 03/11 - 28/11 | [Concluída - Docs](./docs/sprints/sprint-3/README.md)| 
+| Feira de Soluções | 04/12/2025 |   Concluída | 
 
 ---
 
