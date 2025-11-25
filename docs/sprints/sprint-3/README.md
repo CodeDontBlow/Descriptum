@@ -8,81 +8,34 @@ infraestrutura do sistema.
 
 ## 📋 Backlog da Sprint
 
-  ------------------------------------------------------------------------
-  Rank           Prioridade                   User Story
-  -------------- ---------------------------- ----------------------------
-  1              Alta                         Como analista, quero que o
-                                              sistema melhore a extração
-                                              de PDFs variados para
-                                              garantir consistência nas
-                                              informações.
+| Rank | User Story |
+| :--: | :-------- |
+| 7 | Como analista, quero que o sistema guarde as informações extraídas de forma organizada, para poder consultá-las quando necessário. |
 
-  2              Alta                         Como usuário, quero gerar o
-                                              relatório final em Excel
-                                              diretamente do sistema para
-                                              agilizar meu processo.
-
-  3              Média                        Como analista, quero que a
-                                              arquitetura da IA seja
-                                              otimizada para obter
-                                              desempenho mais estável.
-
-  4              Média                        Como usuário, quero
-                                              visualizar histórico e
-                                              detalhes dos dados do banco
-                                              de forma clara.
-
-  5              Baixa                        Como usuário, quero que o
-                                              sistema trate erros de forma
-                                              clara e permita atualizar e
-                                              excluir registros.
-
-  ------------------------------------------------------------------------
 
 ## 🏅 DoR - Definition of Ready
 
-  -----------------------------------------------------------------------
-  Critério                        Descrição
-  ------------------------------- ---------------------------------------
-  Dados Disponíveis               Dados de entrada, amostras ou testes
-                                  necessários estão disponíveis para uso.
-
-  Critérios Técnicos Acordados    Funcionalidades, rotas, serviços e
-                                  integrações definidas e validadas pelo
-                                  time.
-
-  Estrutura Definida              Banco de dados, campos obrigatórios ou
-                                  estrutura de relatórios confirmados.
-
-  Ambiente Preparado              Backend e Frontend funcional, automação
-                                  inicial pronta.
-
-  Estimativa e Planejamento       Esforço estimado ou prioridade definida
-                                  para execução.
+| Critério | Descrição |
+| :------------------------------: | :------------------------------------------------------------------------------------------------- |
+| Dados Disponíveis | Dados de entrada, amostras ou testes necessários estão disponíveis para uso. |
+| Critérios Técnicos Acordados | Funcionalidades, rotas, serviços e integrações definidas e validadas pelo time. |
+| Estrutura Definida | Banco de dados, campos obrigatórios ou estrutura de relatórios confirmados. |
+| Ambiente Preparado | Backend e Frontend funcional, automação inicial pronta. |
+| Estimativa e Planejamento | Esforço estimado ou prioridade definida para execução. |
   -----------------------------------------------------------------------
 
 ## 🏅 DoD - Definition of Done
 
-  -----------------------------------------------------------------------
-  Critério                          Descrição
-  --------------------------------- -------------------------------------
-  Critérios de Aceitação atendidos  Todos os cenários da história foram
-                                    testados e aprovados.
+| Critério | Descrição |
+| :--------------------------------------: | :------------------------------------------------------------------------------------------- |
+| Critérios de Aceitação atendidos | Todos os cenários da história foram testados e aprovados. |
+| Funcionalidade Implementada | Backend, frontend e componentes entregues conforme esperado e integrados, incluindo páginas de banco de dados e histórico. |
+| Feedback e Interação Validados | Interfaces funcionando como esperado, incluindo telas de listagem, criação, edição e exclusão de registros. |
+| Extração de PDFs Validada | Extração de dados de PDFs variados foi testada e resultados consistentes foram validados. |
+| Automação e Containers | Scripts de build, Docker e integração contínua implementados e testados. |
+| Documentação Atualizada | Documentação técnica revisada e atualizada, incluindo instruções de uso das páginas. |
+| Validação do PO | O Product Owner validou a entrega com base nos critérios definidos. |
 
-  Funcionalidade Implementada       Backend, frontend e componentes
-                                    entregues conforme esperado e
-                                    integrados.
-
-  Feedback e Interação Validados    Interfaces funcionando como esperado.
-
-  Automação e Containers            Scripts de build, Docker e integração
-                                    contínua implementados.
-
-  Documentação Atualizada           Documentação técnica revisada e
-                                    atualizada.
-
-  Validação do PO                   O Product Owner validou a entrega.
-  -----------------------------------------------------------------------
 
 ## 📈 Critérios de Aceitação
 
